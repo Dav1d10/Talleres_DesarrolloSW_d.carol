@@ -18,20 +18,21 @@
 .container {
     background-color: #202B5F;
     padding: 20px;
-    border-radius: 10px;
 }
 
 .container2 {
     background-color: aliceblue;
     padding: 20px;
     border-radius: 10px;
-    max-width: 570px;
+    width: 47.5%;
+    margin: 5px;
 }
 
 .subtitle {
     font-family: 'Times New Roman', Times, serif;
     color: crimson;
     font-size: 25px;
+    text-align: center;
 }
 
 .content {
@@ -40,11 +41,59 @@
 }
 
 .container3 {
+    margin: 5px;
     background-color: aliceblue;
     padding: 20px;
     border-radius: 10px;
-    margin-left: 20px;
-    max-width: 570px;
-    
-    
+    width: 47.5%;
+}
+
+.big-container {
+    background-color: black;
+    padding: 20px;
+    height: 500px;
+    display: flex;
+}
+
+.subtitle2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.content2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.equipo {
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    height: auto;
+    width: 470px;
+}
+
+.estadio {
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    height: auto;
+    width: 550px;
+}
+
+.container4 {
+    background-color:aqua;
+    padding: 20px;
+    height: 500px;
+    display: flex;
+}
+
+.subtitle3 {
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    font-size: 35px;
 }
